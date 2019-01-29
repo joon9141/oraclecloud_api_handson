@@ -1,7 +1,7 @@
 reporter: apiary
 custom:
-  apiaryApiKey: 
-  apiaryApiName: 
+  apiaryApiKey: 354e6e6759dbe60034e6cb744042ded4 
+  apiaryApiName: beomjoontag
 dry-run: null
 hookfiles: null
 language: nodejs
